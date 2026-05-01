@@ -1,6 +1,24 @@
+# Data Manipulation & Analysis
 pandas==3.0.2
-numpy==2.3.4
-scikit-learn==1.7.1
+numpy==2.4.4
+scipy==1.17.1
+
+# Machine Learning Models
+scikit-learn==1.8.0
 xgboost==3.0.0
-lightgbm==4.0.0
-scipy==1.13.1
+lightgbm==4.6.0
+catboost==1.2.10
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==6.7.0
+
+# Statistical Modeling
+statsmodels==0.14.6
+patsy==1.0.2
+
+# Utilities
+joblib==1.5.3
+pillow==12.2.0
+python-dateutil==2.9.0.post0
