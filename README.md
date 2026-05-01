@@ -98,5 +98,10 @@ DATATHON2026/Prediction/submission.csv — ready to submit to Kaggle
 ### Requirements
 Install all: pip install -r requirements.txt
 
-## License
+### Author
+Team: anmiquangcatuan
+Kaggle: https://www.kaggle.com/longngu
+Github: https://github.com/TranDinhQuy0801/DATATHON2026_anmiquangcatuan
+
+### License
 This project is for educational/competition purposes.
