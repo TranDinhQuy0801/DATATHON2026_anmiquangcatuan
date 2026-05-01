@@ -10,7 +10,7 @@ def main():
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     file_ok  = os.path.join(BASE_DIR, 'Trimmed_mean_model.csv')
     file_lgb = os.path.join(BASE_DIR, 'LGB_pure.csv')
-    out_file = os.path.join(BASE_DIR, 'FINAL_BLEND_50_50.csv')
+    out_file = os.path.join(BASE_DIR, 'FINAL.csv')
 
     # Kiểm tra file
     if not os.path.exists(file_ok) or not os.path.exists(file_lgb):

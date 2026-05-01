@@ -8,8 +8,8 @@ warnings.filterwarnings('ignore')
 # Đường dẫn tương đối
 BASE_DIR     = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR     = os.path.dirname(BASE_DIR)
-UNIFIED_PATH = os.path.join(ROOT_DIR, 'dataset', 'unified_sales_data.csv')
-TEST_PATH    = os.path.join(ROOT_DIR, 'dataset', 'sample_submission.csv')
+UNIFIED_PATH = os.path.join(ROOT_DIR, 'dataset' , 'unified_sales_data.csv')
+TEST_PATH    = os.path.join(ROOT_DIR, 'dataset' , 'sample_submission.csv')
 OUTPUT_DIR   = os.path.join(ROOT_DIR, 'Prediction')
 
 def make_features(df):
